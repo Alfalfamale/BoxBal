@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="ss:type" />
+            <item index="1" class="java.lang.String" itemvalue="ss:expandedcolumncount" />
+            <item index="2" class="java.lang.String" itemvalue="ss:expandedrowcount" />
+            <item index="3" class="java.lang.String" itemvalue="ss:defaultrowheight" />
+            <item index="4" class="java.lang.String" itemvalue="x:fullcolumns" />
+            <item index="5" class="java.lang.String" itemvalue="x:fullrows" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="cell" />
+            <item index="7" class="java.lang.String" itemvalue="row" />
+            <item index="8" class="java.lang.String" itemvalue="worksheet" />
+            <item index="9" class="java.lang.String" itemvalue="workbook" />
+            <item index="10" class="java.lang.String" itemvalue="documentproperties" />
+            <item index="11" class="java.lang.String" itemvalue="author" />
+            <item index="12" class="java.lang.String" itemvalue="created" />
+            <item index="13" class="java.lang.String" itemvalue="excelworkbook" />
+            <item index="14" class="java.lang.String" itemvalue="activesheet" />
+            <item index="15" class="java.lang.String" itemvalue="styles" />
+            <item index="16" class="java.lang.String" itemvalue="xml" />
+            <item index="17" class="java.lang.String" itemvalue="mso-application" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myAdditionalRequiredHtmlAttributes" value="value" />
+    </inspection_tool>
+  </profile>
+</component>
