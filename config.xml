@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>BoxBal</name>
 
     <description>
-        An example for phonegap build docs.
+        The app used during the BoxBal
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker
+    <author href="http://rob.vanden-hout.com" email="vdhout@gmail.com">
+        Rob van den Hout
     </author>
 
 </widget>
